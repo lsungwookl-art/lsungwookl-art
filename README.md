@@ -2,14 +2,12 @@
 
 **풀스택 개발자 | Java · Spring Boot · TypeScript · React · AI Integration**
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsungwookl-art&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 ---
 
 ## 🦊 About Me
 
 ```text
-🎓  Korea IT Academy (코리아아이티아카데미) 부산 KDT 풀스택 과정 수료 (2025.12 ~ 2026.03)
+🎓  Korea IT Academy (코리아아이티아카데미) 부산 KDT 풀스택 과정 수료 (2025.12 ~ 2026.05)
 📍  부산광역시
 💻  Java → HTML/CSS → JavaScript → Python → SQL
     → Spring Boot → React → OAuth2 → AWS 배포
@@ -59,7 +57,7 @@
 
 ---
 
-## 📁 KDT 강의 레포지토리 (korit_12 기수)
+## 📁 강의 레포지토리 (korit_12 기수)
 
 | 과목 | 레포지토리 | 기간 |
 |------|-----------|------|
